@@ -1,6 +1,14 @@
 # 更新日志 
 
 
+### 3.0.1 (2023-05-31)
+
+
+### ✏️ Documentation | 文档
+
+* ✏️  更新文档 ([d7dc232](https://github.com/night-peiqi/pnpm-vue3-ui-template/commit/d7dc23201200015993fa5ed9e248988c1cd71d2b))
+* ✏️  更新readme ([b4045e5](https://github.com/night-peiqi/pnpm-vue3-ui-template/commit/b4045e5e7d7f9e33ee0f7af0b5fd57a99305de82))
+
 ## [3.0.0](https://github.com/night-peiqi/test-code-format/compare/v2.1.1...v3.0.0) (2023-05-30)
 
 ### [2.1.1](https://github.com/night-peiqi/test-code-format/compare/v2.1.0...v2.1.1) (2023-05-30)

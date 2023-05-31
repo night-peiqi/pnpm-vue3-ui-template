@@ -1,6 +1,6 @@
 {
   "name": "@zhj/component",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "vue3 ant-design-vue pnpm 对组件库二次封装",
   "main": "packages/index.js",
   "private": false,
