@@ -2,6 +2,11 @@
 
 ## 该模板不做组件库打包，仅适用于 vue3 + ant-design-vue 的项目使用
 
+- [node 16.14.0+](http://nodejs.org/)
+- [Vue@3.2.0](https://cn.vuejs.org/guide/introduction.html)
+- [Es6+](https://es6.ruanyifeng.com/)
+- [Ant-Design-Vue@3.2.0](https://2x.antdv.com/docs/vue/introduce-cn/)
+
 # 使用方法
 
 ## **组件库** 全局注册
@@ -32,13 +37,6 @@ import { testFn } from '@zhj/components'
 ```
 
 # 组件库开发
-
-## 准备
-
-- [node 16.14.0+](http://nodejs.org/)
-- [Vue@3.2.0](https://cn.vuejs.org/guide/introduction.html)
-- [Es6+](https://es6.ruanyifeng.com/)
-- [Ant-Design-Vue@3.2.0](https://2x.antdv.com/docs/vue/introduce-cn/)
 
 ## 本地开发
 
