@@ -1,0 +1,10 @@
+/build/
+/config/
+/dist/
+/*.js
+zh_CN.js
+/static
+/lib
+pnpm-lock.yaml
+.stylelintrc.json
+CHANGELOG.md

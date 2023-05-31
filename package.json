@@ -1,0 +1,50 @@
+{
+  "name": "@zhj/component",
+  "version": "3.0.0",
+  "description": "",
+  "main": "packages/index.js",
+  "private": false,
+  "files": [
+    "packages"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "release-major": "standard-version --release-as major",
+    "release-minor": "standard-version --release-as minor",
+    "release-patch": "standard-version --release-as patch",
+    "prettier": "prettier --write .",
+    "commit": "git-cz",
+    "lint": "eslint"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts,vue}": "pnpm run lint"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.0",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.14.1",
+    "git-cz": "^4.9.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8",
+    "standard-version": "^9.5.0",
+    "stylelint": "^15.6.2",
+    "stylelint-config-standard": "^33.0.0"
+  }
+}
