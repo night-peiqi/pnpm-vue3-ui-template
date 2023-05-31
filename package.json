@@ -1,15 +1,22 @@
 {
   "name": "@zhj/component",
   "version": "3.0.0",
-  "description": "",
+  "description": "vue3 ant-design-vue pnpm 对组件库二次封装",
   "main": "packages/index.js",
   "private": false,
   "files": [
     "packages"
   ],
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue3",
+    "ant-design-vue",
+    "pnpm"
+  ],
+  "author": {
+    "name": "night-peiqi",
+    "GitHub": "https://github.com/night-peiqi"
+  },
+  "license": "MIT",
   "scripts": {
     "release-major": "standard-version --release-as major",
     "release-minor": "standard-version --release-as minor",
