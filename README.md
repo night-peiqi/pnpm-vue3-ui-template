@@ -27,7 +27,7 @@ import { CQButton } from '@zhj/component'
 
 ...
 
-app.use(CQComs)
+app.use(CQButton)
 ```
 
 ## **工具方法** 引入
