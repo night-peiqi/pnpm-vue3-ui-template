@@ -1,5 +1,5 @@
 {
-  "name": "@zhj/component",
+  "name": "@yxk/component",
   "version": "3.0.2",
   "description": "vue3 ant-design-vue pnpm 对组件库二次封装",
   "main": "packages/index.js",

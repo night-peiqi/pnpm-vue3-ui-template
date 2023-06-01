@@ -13,7 +13,7 @@
 
 ```javascript
 // main.js
-import CQComs from '@zhj/component'
+import CQComs from '@yxk/component'
 
 ...
 
@@ -23,7 +23,7 @@ app.use(CQComs)
 ## **组件库** 按需引入
 
 ```javascript
-import { CQButton } from '@zhj/component'
+import { CQButton } from '@yxk/component'
 
 ...
 
@@ -33,7 +33,7 @@ app.use(CQButton)
 ## **工具方法** 引入
 
 ```javascript
-import { testFn } from '@zhj/components'
+import { testFn } from '@yxk/components'
 ```
 
 # 组件库开发
@@ -50,14 +50,14 @@ npm link
 - 使用本地依赖包
 
 ```javascript
-// 进入业务代码仓根目录，执行 npm link @zhj/component
-npm link @zhj/component
+// 进入业务代码仓根目录，执行 npm link @yxk/component
+npm link @yxk/component
 ```
 
 - 删除本地依赖包
 
 ```javascript
-npm uninstall --global @zhj/component
+npm uninstall --global @yxk/component
 ```
 
 - 这时候修改组件库代码，业务代码仓中的引用会自动更新

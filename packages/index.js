@@ -8,7 +8,7 @@ export const install = (Vue) => {
   Object.entries(components).forEach(([name, component]) => {
     Vue.component(name, component)
   })
-  console.log('@zhj/component 注册成功')
+  console.log('@yxk/component 注册成功')
 }
 
 export default { install }
