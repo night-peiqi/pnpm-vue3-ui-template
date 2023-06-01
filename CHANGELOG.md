@@ -1,6 +1,13 @@
 # 更新日志 
 
 
+### [3.0.2](https://github.com/night-peiqi/pnpm-vue3-ui-template/compare/v3.0.1...v3.0.2) (2023-06-01)
+
+
+### ✏️ Documentation | 文档
+
+* ✏️  更新文档 ([f36ca9e](https://github.com/night-peiqi/pnpm-vue3-ui-template/commit/f36ca9ec27c2a6085b760b4b0d938509dfbf00e9))
+
 ### 3.0.1 (2023-05-31)
 
 
